@@ -14,6 +14,6 @@ Data Deduplication is a JAVA project that splits data using hashing technique an
 4. Now, run the [`DataDeduplication.java`](/Data%20Deduplication/src/data/deduplication/DataDeduplication.java) file and login using "admin" as an username and password.
 5. Try uploding and downloading files.
 
-**Note:** Update [***tempFilePath***](/Data%20Deduplication/src/utils/CommonProperties.java#L4) and [***outputFilePath***](/Data%20Deduplication/src/utils/CommonProperties.java#L5) into the [`CommonProperties.java`](/Data%20Deduplication/src/utils/CommonProperties.java) file as per your directory structure and you can also change split [chunk](/Data%20Deduplication/src/utils/CommonProperties.java#L6) size from this file.
-
 > Screenshots are also available [here](/Screenshots).
+
+**Note:** Update [***tempFilePath***](/Data%20Deduplication/src/utils/CommonProperties.java#L4) and [***outputFilePath***](/Data%20Deduplication/src/utils/CommonProperties.java#L5) from the [`CommonProperties.java`](/Data%20Deduplication/src/utils/CommonProperties.java) file as per your directory structure and you can also change split [chunk](/Data%20Deduplication/src/utils/CommonProperties.java#L6) size from this file.
