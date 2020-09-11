@@ -9,8 +9,8 @@ Data Deduplication is a JAVA project that splits data using hashing technique an
 
 ### How to run?
 1. Clone/download this repo.
-2. Open project into the Netbeans IDE.
-3. Run phpMyAdmin and create a database "data_deduplication" and import `data_deduplication.sql` file (this file is located into the db folder).
+2. Open [Data Deduplication](/Data%20Deduplication) project into the Netbeans IDE.
+3. Run phpMyAdmin and create a database "data_deduplication" and import [`data_deduplication.sql`](/db/data_deduplication.sql) file.
 4. Now, run the `DataDeduplication.java` file and login using "admin" as an username and password.
 5. Try uploding and downloading files.
 
