@@ -15,3 +15,5 @@ Data Deduplication is a JAVA project that splits data using hashing technique an
 5. Try uploding and downloading files.
 
 **Note:** Update ***tempFilePath*** and ***outputFilePath*** into the `CommonProperties.java` file as per your directory structure and you can also change split chunk size from this file.
+
+> Screenshots are also available [here](/Screenshots).
